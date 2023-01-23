@@ -6,8 +6,8 @@ Definitely this release is not meant to hoard or override the credit of the real
 
 
 Game-Play Sample to the game itself - non android
-
-[![Duelyst Game Play](https://img.youtube.com/vi/06ycJizK-LM/Duelyst Thumbnail.jpg)](https://www.youtube.com/watch?v=06ycJizK-LM)
+=================================================
+https://www.youtube.com/watch?v=06ycJizK-LM
 
 
 Network
