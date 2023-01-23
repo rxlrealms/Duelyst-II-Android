@@ -3,7 +3,7 @@ This pre-release is created by RXL-Realms development in Tech Field for entertai
 Definitely this release is not meant to hoard or override the credit of the real owners. The copyright belongs to their respective owners. This is just a public distribution by RXL-Realms. We have used the game browser url https://staging.duelyst.org from the official github https://github.com/open-duelyst/duelyst and we are hopping that we helped and support CPG or the duelyst II in any means given. 
 
 
-Game-Play Sample to the game itself - non android
+Game-Play Sample to the game itself - on steam
 =================================================
 [<img src="https://i9.ytimg.com/vi/06ycJizK-LM/mqdefault.jpg?v=63cd6a29&sqp=COyOuJ4G&rs=AOn4CLCnXejagylXiu-dlaIhjogBWbclug" width="50%">](https://www.youtube.com/watch?v=06ycJizK-LM "Flaming End | SWIFT KILL")
 
