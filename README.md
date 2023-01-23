@@ -7,10 +7,7 @@ Definitely this release is not meant to hoard or override the credit of the real
 
 Game-Play Sample to the game itself - non android
 =================================================
-https://www.youtube.com/watch?v=06ycJizK-LM
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/06ycJizK-LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+[<img src="https://i9.ytimg.com/vi/06ycJizK-LM/mqdefault.jpg?v=63cd6a29&sqp=COyOuJ4G&rs=AOn4CLCnXejagylXiu-dlaIhjogBWbclug" width="50%">](https://www.youtube.com/watch?v=06ycJizK-LM "Flaming End | SWIFT KILL")
 
 
 Network
