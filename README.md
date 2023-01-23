@@ -9,7 +9,7 @@ Game-Play Sample to the game itself - non android
 =================================================
 https://www.youtube.com/watch?v=06ycJizK-LM
 
-[![Game-Play Sample](http://img.youtube.com/vi/watch?v=06ycJizK-LM/Duelyst Thumbnail.jpg)](http://www.youtube.com/watch?v=06ycJizK-LM "Flaming End | SWIFT KILL")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06ycJizK-LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
