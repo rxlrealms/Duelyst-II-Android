@@ -5,7 +5,7 @@ Definitely this release is not meant to hoard or override the credit of the real
 
 Game-Play Sample to the game itself - on steam
 =================================================
-[<img src="https://i.ibb.co/tXFXd8p/Duelyst-Thumbnail.png" width="50%">](https://www.youtube.com/watch?v=06ycJizK-LM "Flaming End | SWIFT KILL")
+[<img src="https://i.ibb.co/tXFXd8p/Duelyst-Thumbnail.png" width="50%">](https://www.youtube.com/watch?v=K7YJSkailV8 "RXL-Realms Duelyst Android")
 
 
 Network
