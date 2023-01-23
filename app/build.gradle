@@ -1,0 +1,64 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'RXL Official'
+            keyPassword 'RDKRG-745846-343K--FK04HD-D57S'
+            storeFile file('D:/Projects/Android/RXL/RXLOfficial/keys/rxl.jks')
+            storePassword 'RDKRG-745846-343K--FK04HD-D57S'
+        }
+        Duelyst {
+            keyAlias 'Duelyst'
+            keyPassword 'duelystII.android.origin2016'
+            storeFile file('D:/industry/Projects/Android/RXL/Duelyst II/keys/duelyst.jks')
+            storePassword 'duelystII.android.origin2016'
+        }
+    }
+    compileSdkVersion 26
+    buildToolsVersion '29.0.2'
+    defaultConfig {
+        applicationId 'com.realms.rxl.duelyst'
+        minSdkVersion 19
+        targetSdkVersion 26
+        versionName '0.1'
+        setProperty("archivesBaseName", "Duelyst II~v$versionName")
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        signingConfig signingConfigs.config
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+        applicationVariants.all {
+            variant ->
+            variant.outputs.each {
+                output->
+                    output.outputFile = new File(output.outputFile.parent,
+                            output.outputFile.name.replace("-release", ""))
+            }
+        }
+    }
+    sourceSets { main { res.srcDirs = ['src/main/res', 'src/main/res/raw'] } }
+    productFlavors {
+        Duelyst {
+            minSdkVersion 19
+            applicationId 'com.realms.rxl.duelyst'
+            signingConfig signingConfigs.Duelyst
+            targetSdkVersion 26
+            testInstrumentationRunner 'android.support.test.runner.AndroidJUnitRunner'
+            versionName '0.1'
+        }
+    }
+    compileOptions {
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
+    compile 'com.android.support:design:26.0.0-alpha1'
+    compile 'com.android.support.test:runner:0.5'
+    compile 'com.android.support:support-v4:26.0.0-alpha1'
+}

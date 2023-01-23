@@ -1,0 +1,1 @@
+java -jar "path/to/bundletool.jar" build-apks --bundle=myapp-release.aab --output=myapp.apks --ks="/path/to/myapp-release.keystore" --ks-pass=pass:myapp-keystore-pass --ks-key-alias=myapp-alias --key-pass=pass:myapp-alias-pass

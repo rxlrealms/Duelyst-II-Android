@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main_duelyst"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000"
+    tools:context="com.realms.rxl.duelyst.MainDuelyst"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="none"
+        android:scrollbarAlwaysDrawHorizontalTrack="false"
+        android:scrollbarAlwaysDrawVerticalTrack="false"
+        android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+    </WebView>
+
+
+</LinearLayout>
