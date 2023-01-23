@@ -5,7 +5,7 @@ Definitely this release is not meant to hoard or override the credit of the real
 
 Game-Play Sample to the game itself - on steam
 =================================================
-[<img src="https://i9.ytimg.com/vi/06ycJizK-LM/mqdefault.jpg?v=63cd6a29&sqp=COyOuJ4G" width="50%">](https://www.youtube.com/watch?v=06ycJizK-LM "Flaming End | SWIFT KILL")
+[<img src="https://i.ibb.co/tXFXd8p/Duelyst-Thumbnail.png" width="50%">](https://www.youtube.com/watch?v=06ycJizK-LM "Flaming End | SWIFT KILL")
 
 
 Network
