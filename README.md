@@ -5,7 +5,7 @@ Definitely this release is not meant to hoard or override the credit of the real
 # By using this content you agree to our terms & agreements:
 https://sites.google.com/view/rxl-realms/menu/terms
 
-Game-Play Sample to the game itself - on steam
+Game-Play Sample to the game itself - on Android
 =================================================
 [<img src="https://i.ibb.co/tXFXd8p/Duelyst-Thumbnail.png" width="50%">](https://www.youtube.com/watch?v=K7YJSkailV8 "RXL-Realms Duelyst Android")
 
